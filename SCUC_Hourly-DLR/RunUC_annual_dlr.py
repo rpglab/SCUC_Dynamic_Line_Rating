@@ -1,4 +1,6 @@
 ### run SCUC with dynamic line rating profiles
+## Author: Jin Lu, University of Houston.
+## link: https://rpglab.github.io/resources/
 
 ### Import
 import os
