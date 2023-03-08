@@ -1,4 +1,7 @@
 ### Create a Class for matpower/pypower case
+## Author: Jin Lu, University of Houston.
+## link: https://rpglab.github.io/resources/
+
 '''
 GenericModel(power module), Bus, Gen, Branch, Gencost
 input is index(start from 0), output is num(start from 1)
