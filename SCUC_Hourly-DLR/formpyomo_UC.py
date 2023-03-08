@@ -1,5 +1,7 @@
 # This code is used to form the pyomo data file for the Unit Commitment
 # SCUC with the dynamic line rating does not need change 'pyomodata_UC'
+## Author: Jin Lu, University of Houston.
+## link: https://rpglab.github.io/resources/
 
 def pyomodata_UC(GenericModel,time_totnum,load_b_t,reg_gen_list):    # load_b_t[i][j] where i,j start from 0
     bus_str = 'param: BUS : bus_num := \n'
