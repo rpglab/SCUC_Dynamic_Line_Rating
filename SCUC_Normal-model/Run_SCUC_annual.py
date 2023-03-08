@@ -1,4 +1,6 @@
 ### Run SCUC
+## Author: Jin Lu, University of Houston.
+## link: https://rpglab.github.io/resources/
 
 ### Import
 import os
